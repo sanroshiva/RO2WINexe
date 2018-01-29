@@ -1,7 +1,7 @@
 @echo off
 echo ==============================================
 echo Latest Version            SYRO180123
-echo 
+echo ---
 echo Press any key to download the latest version
 echo ==============================================
 pause
