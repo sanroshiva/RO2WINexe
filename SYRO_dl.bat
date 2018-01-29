@@ -1,5 +1,5 @@
 @echo off
-echo Latest Version→SYRO180123
+echo Latest Version      SYRO180123
 echo =======================
 echo Press any key to download the latest version
 pause
