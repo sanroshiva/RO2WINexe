@@ -1,6 +1,6 @@
 @echo off
 echo ==============================================
-echo Latest Version            SYRO181127 (2018/11/207 22:44)
+echo Latest Version            SYRO181127 (2018/11/27 22:44)
 echo ---
 echo Press any key to download the latest version
 echo ==============================================
