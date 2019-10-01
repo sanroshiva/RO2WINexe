@@ -1,11 +1,11 @@
 @echo off
 echo ==============================================
-echo Latest Version            SYRO190924 (2019/09/24 20:53)
+echo Latest Version            SYRO191001 (2019/10/01 21:17)
 echo ---
 echo Press any key to download the latest version
 echo ==============================================
 pause
-wget -N https://raw.githubusercontent.com/sanroshiva/RO2WINexe/master/GNJOY_2019/SYRO190924.exe
-call SYRO190924.exe
-del SYRO190924.exe
+wget -N https://raw.githubusercontent.com/sanroshiva/RO2WINexe/master/GNJOY_2019/SYRO191001.exe
+call SYRO191001.exe
+del SYRO191001.exe
 del SYRO_dl.bat
