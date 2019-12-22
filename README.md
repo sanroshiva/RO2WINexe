@@ -1,7 +1,10 @@
 # **TwRO‧SYR修正**
 原始發佈於天野論壇，現於巴哈小屋進行文章更新。
+
 [小屋文章](https://home.gamer.com.tw/creationDetail.php?sn=3742551)
+
 [MG空間](https://mega.nz/#F!cB1SgLLL!oEK5uAP8HbpRcd-TgzgNKA)
+
 [MF空間](https://www.mediafire.com/folder/pk25tbtwwa5o4/RO_2wins)
 
 ## **SYR修正功能(SYRO191222版本以後)**
