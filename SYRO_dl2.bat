@@ -8,4 +8,4 @@ pause
 wget -N https://raw.githubusercontent.com/sanroshiva/RO2WINexe/master/gnjoy/SYRO191222.exe
 call SYRO191222.exe
 del SYRO191222.exe
-del SYRO_dl.bat
+del SYRO_dl2.bat
