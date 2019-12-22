@@ -1,10 +1,7 @@
 # **TwRO‧SYR修正**
 原始發佈於天野論壇，現於巴哈小屋進行文章更新。
-
 [小屋文章](https://home.gamer.com.tw/creationDetail.php?sn=3742551)
-
 [MG空間](https://mega.nz/#F!cB1SgLLL!oEK5uAP8HbpRcd-TgzgNKA)
-
 [MF空間](https://www.mediafire.com/folder/pk25tbtwwa5o4/RO_2wins)
 
 ## **SYR修正功能(SYRO191222版本以後)**
@@ -23,9 +20,8 @@
 - [x] 鍊金術師技能『配藥』無聲化
 
 ■此區功能可根據需求自行添加進event.grf裡
-- [ ] 其它預讀資料夾後的修改(EX.登入圖、魔法陣、紙娃娃...部分可能導致系統判定篡改而強關遊戲)
+- [ ] 其它預讀修改(EX.登入圖、魔法陣、紙娃娃...自行放進event.grf裡。部分可能導致系統判定篡改而強關遊戲)
 - [ ] 解除禁語限制(manner.txt，由於禁語有凍帳風險，暫不開放)
-- [ ] 自訂登入圖
 
 ■此區功能需自行添加進data.grf裡
 - [x] 自訂過場圖(etcinfo.txt設定輪替張數，過場圖本身則需塞入event.grf或data資料夾下)
