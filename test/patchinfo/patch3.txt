@@ -1,0 +1,3 @@
+//2020
+1	syr_fix0107.gpf
+2	syr_fix0107.rgz
