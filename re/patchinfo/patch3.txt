@@ -1,3 +1,2 @@
-//2020
-1	syr_re0107.gpf
-2	syr_re0107.rgz
+1	syr_re0107.rgz
+2	syr_re0107.gpf
