@@ -1,0 +1,2 @@
+1	syr_fix_data0107.gpf
+2	syr_fix_sys0107.rgz

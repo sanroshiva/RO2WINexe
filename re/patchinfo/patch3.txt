@@ -1,2 +1,2 @@
-//20191224
-1 syr_re.gpf
+1	syr_re_data0107.gpf
+2	syr_re_sys0107.rgz
