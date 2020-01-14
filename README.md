@@ -7,18 +7,20 @@
 
 [MF空間](https://www.mediafire.com/folder/pk25tbtwwa5o4/RO_2wins)
 
-## **SYR修正功能(SYRO191223a版本以後)**
+## **SYR修正功能(SYRO200107版本以後)**
 ■此區功能安裝即常駐，直到官方維修關機or臨時更新
-- [x] 桌面捷徑『RO登入器(SYR)』　←臨時更新&維修日勿用
-- [x] 顯示未鑑定物品名稱&圖示&敘述　(RO/System/iteminfo.lub)
+- [x] 桌面捷徑『RO登入器(SYR)』　←不再是登入器，而是加入|取消修正功能的寫入器。
 
-■此區功能透過RO登入器(SYR)寫入data.grf
+■此區功能透過RO登入器(SYR)寫入System資料夾(壓成.rgz檔)
+- [x] 顯示未鑑定物品名稱&圖示&敘述　(RO資料夾/System/iteminfo.lub)
+
+■此區功能透過RO登入器(SYR)寫入data.grf(壓成.gpf檔)
 - [x] 縮小商店&儲值圖，避免擋住小地圖(只是周圍圖塊透明化，作用範圍沒有變，請注意)
 - [x] 裝備插卡名稱實名化　(cardprefixnametable.txt)
 - [x] 顯示裝備附魔　(cardprefixnametable.txt，若有尚未顯示項目可於巴哈小屋留言告知。註：需註明物品編號or完整名稱)
 - [x] 卡片放大
 - [x] 部分預設隱藏小地圖顯示
-- [x] 卡普拉立繪替換成同人圖　←可另放到RO\skin\面板資料夾\illust資料夾下進行預讀(優先度比data.grf高)
+- [x] 卡普拉立繪替換成同人圖　←可另放到RO\skin\當前使用的面板資料夾\illust資料夾下進行預讀(優先度比data.grf高)
 - [x] 鍊金術師技能『配藥』無聲化
 
 ■此區功能可依需求自行修改data.grf
