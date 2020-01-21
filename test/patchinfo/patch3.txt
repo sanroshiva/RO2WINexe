@@ -1,4 +1,4 @@
 //2020
 1	syr_fix0121.gpf
-2	syr_fix0121c1.gpf
+2	syr_fix0121c2.gpf
 3	syr_fix0121.rgz
