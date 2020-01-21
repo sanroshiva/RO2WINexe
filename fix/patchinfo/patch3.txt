@@ -1,2 +1,3 @@
-1	syr_fix0114.rgz
-2	syr_fix0114.gpf
+//2020
+1	syr_fix0121.rgz
+2	syr_fix0121.gpf
