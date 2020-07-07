@@ -1,5 +1,3 @@
 //2020-07-07 
-//1	syr_fix0707.rgz
-//2	syr_fix0707.gpf
-1	syr_fix0630.rgz
-2	syr_fix0623.gpf
+1	syr_fix0707.rgz
+2	syr_fix0707.gpf
