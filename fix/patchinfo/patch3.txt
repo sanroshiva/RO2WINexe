@@ -1,3 +1,3 @@
-//2020-07-28a 
-1	syr_fix0728.rgz
-2	syr_fix0728.gpf
+//2020-08-11a 
+1	syr_fix0811.rgz
+2	syr_fix0811.gpf
