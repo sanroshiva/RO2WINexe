@@ -1,3 +1,2 @@
 //2021sa
-1	syr_fix0323ttm.gpf
-2	syr_fix0323.rgz
+1	syr_fix0323.rgz
